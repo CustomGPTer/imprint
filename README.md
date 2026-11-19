@@ -53,10 +53,6 @@ Every typeface comes from Google Fonts under an open licence. The list, with eac
 copyright notice, is in `android/app/src/main/assets/licences`, and on the
 [licences page](https://customgpter.github.io/imprint/licences.html).
 
-## Building
-
-The app is in the `android` folder. See `android/README.md`.
-
 ## Licence
 
-© 2026 Jonathan Jackson. Published under the GNU General Public License, version 3 (see `LICENSE`).
+© 2026 Jonathan Jackson. All rights reserved. The app's source code is not published; this repository holds the website and the app releases.
